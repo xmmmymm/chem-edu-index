@@ -1,0 +1,6 @@
+# This is an index repository — it contains no code.
+# Only the navigation README.md and this license are tracked.
+*
+!.gitignore
+!README.md
+!LICENSE
